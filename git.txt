@@ -1,0 +1,12 @@
+one in year
+    authorization (auto)
+
+create new repo:
+    git init
+    git remote add origin https://github.com/MishaCherpak/test.git *
+    git branch -M main
+
+every update:
+    git add .
+    git commit -m "first commit"
+    git push -u origin main

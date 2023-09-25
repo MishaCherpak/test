@@ -6,6 +6,7 @@ create new repo:
     git remote add origin https://github.com/MishaCherpak/test.git *
     git branch -M main
 
+
 every update:
     git add .
     git commit -m "first commit"
